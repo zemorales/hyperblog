@@ -60,3 +60,9 @@ body
     text-align: center;
     padding: 0.5em;
 }
+
+#imgs{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
